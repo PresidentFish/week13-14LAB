@@ -34,7 +34,7 @@ public class week13_14_lab
 
        int len = line.length();//We turn the length of the string into a varible we can use later called "len"
 
-       System.out.println("\nMatches and Mismatches:\n");
+       System.out.println("\nMatches and Mismatches:\n");//this prints of only if there are values that match the if statments
 
        for (int i = 0; i < len; i++)//Loops a function the length of the string
 
